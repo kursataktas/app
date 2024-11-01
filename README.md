@@ -19,6 +19,10 @@
 <img src="https://img.shields.io/twitter/follow/simplelogin?style=social">
 </a>
 
+<a href="https://gurubase.io/g/simplelogin">
+<img src="https://img.shields.io/badge/Gurubase-Ask%20SimpleLogin%20Guru-006BFF">
+</a>
+
 </p>
 
 <p align="center">
